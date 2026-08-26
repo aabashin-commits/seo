@@ -1,0 +1,4 @@
+﻿query,freq_base,freq_phrase,freq_exact,region,intent,cluster,target_url,priority,source,checked_at
+ремонт квартир в казани,12400,3100,890,Казань,коммерческий,ремонт-квартир,/uslugi/remont-kvartir/,высокий,wordstat,2026-08-25
+ремонт квартир под ключ казань,4200,1150,410,Казань,коммерческий,ремонт-квартир,/uslugi/remont-kvartir/,высокий,wordstat,2026-08-25
+ремонт квартир своими руками,8900,2300,760,Казань,информационный,ремонт-своими-руками,/blog/remont-svoimi-rukami/,низкий,wordstat,2026-08-25
